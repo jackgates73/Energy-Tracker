@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">projectfinale</string>
+    <string-array name="names">
+        <item>fat loss</item>
+        <item>gain muscle</item>
+        <item>body recomposition</item>
+    </string-array>
+</resources>
